@@ -1,3 +1,4 @@
+![Full stock webdebloper ](https://i.postimg.cc/sfmwLj0q/github.png)
 ## Hi, I'm ASHIQ 👋
 [<img src='https://i.postimg.cc/Y9v0cDSP/Chat-GPT-Image-Sep-5-2026-09-29-29-PM.png'>](https://github.com/shovoalways/)
 <p>
@@ -8,15 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/shovoalways" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
 
-## 🚀 About Me
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
+ 
 
-## 👨‍💻 Skills & Experiance: 
-✅ WordPress <br> 
-✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 
