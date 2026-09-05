@@ -1,4 +1,4 @@
-![Full stock webdebloper ](https://i.postimg.cc/sfmwLj0q/github.png)
+
 ## Hi, I'm ASHIQ 👋
 [<img src='https://i.postimg.cc/Y9v0cDSP/Chat-GPT-Image-Sep-5-2026-09-29-29-PM.png'>](https://github.com/shovoalways/)
 <p>
