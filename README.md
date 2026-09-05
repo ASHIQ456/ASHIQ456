@@ -15,7 +15,7 @@
 🎤 Like to share my knowledge </p> 
 
 
-<p align="left"> <a href="https://twitter.com/shovoalways" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="ashiq456" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashiq456" target="blank"><img src="https://img.shields.io/twitter/follow/ashiq456?logo=twitter&style=for-the-badge" alt="ashiq456" /></a> </p>
 
 
 
