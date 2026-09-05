@@ -25,10 +25,7 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 - ⚡ Using: Node.js, Express.js, MongoDB, PostgreSQL, and Prisma for backend development.
 - 🌱 Next.js, TypeScript, Node.js, PostgreSQL & System Design.
 - 💬 Ask me about: Full-Stack development (React, Next.js, Node.js, PostgreSQL).
-- 🔗 Portfolio & Resume: Explore My Portfolio https://mdsakibdev.github.io/Modern-Personal-Portfolio-Website
-- 📝 Articles: I regularly write tech content on https://linkedin.com/in//abdurrazzak1
-- 📫 How to reach me: Email me at abdurrazzaqsakib@gmail.com
-- 
+
 ### My Location
 
 <p align="left">
