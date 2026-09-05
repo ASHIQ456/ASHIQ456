@@ -1,5 +1,7 @@
-![Full stock webdebloper ](https://i.postimg.cc/sfmwLj0q/github.png)
-<h1 align="center">Hi 👋, I'm Abdur Razzak Sakib</h1>
+![Full stock webdebloper ] (https://i.postimg.cc/sXyYzZ8P/Chat-GPT-Image-Sep-5-2026-11-05-14-PM.png)
+
+
+<h1 align="center">Hi 👋, I'm Md Ashiq</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Web+Developer;React+%26+Node.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Scalable+Web+Apps" alt="Typing SVG" />
@@ -18,7 +20,9 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 - 🔗 Portfolio & Resume: Explore My Portfolio https://mdsakibdev.github.io/Modern-Personal-Portfolio-Website
 - 📝 Articles: I regularly write tech content on https://linkedin.com/in//abdurrazzak1
 - 📫 How to reach me: Email me at abdurrazzaqsakib@gmail.com
+- 
 ### My Location
+
 <p align="left">
    <img src="https://img.shields.io/badge/Location-Bangladesh-1e1e2e?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
@@ -27,17 +31,23 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 
 
 <h2><img src="https://api.iconify.design/lucide/link.svg?color=%233B82F6" width="24" align="absmiddle"/> FOLLOW ME ON SOCIALS </h2>
-  <a href="https://www.linkedin.com/in/abdurrazzak1"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+
+  <a href="https://www.linkedin.com/in/mdashiq456"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  
   <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  
   <a href="https://www.youtube.com/"><img src="https://www.svgrepo.com/show/475700/youtube-color.svg" width="50"/></a>
-  <a href="https://www.facebook.com/abdur346"><img src="https://www.svgrepo.com/show/452196/facebook-1.svg" width="50"/></a>
-  <a href="abdurrazzaqsakib@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  
+  <a href="https://www.facebook.com/"><img src="https://www.svgrepo.com/show/452196/facebook-1.svg" width="50"/></a>
+  
+  <a href="ashiqofficial456@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
 
 ---
 
 
 <!--- technology --->
+
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
@@ -98,6 +108,7 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 - 🧠 Improve problem-solving and algorithmic thinking
 - 🌍 Build and deploy real-world projects
 - 🤝 Contribute to open-source projects
+- 
 
 <p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p>
 
