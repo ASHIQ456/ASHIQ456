@@ -15,7 +15,57 @@
 🎤 Like to share my knowledge </p> 
 
 
-<p align="left"> <a href="https://twitter.com/shovoalways" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shovoalways" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="ashiq456" /></a> </p>
+
+
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+      <td><b>Responses</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
+      <td>Programming related Learning Platform for Bangladesh</td>
+      <td>300K+ active learners</td>
+    </tr>
+    <tr>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
+      <td>Visual Studio Code Editor Theme</td>
+      <td>136K+ installs</td>
+    </tr>
+    <tr>
+      <td>Listenyzen</td>
+      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
+      <td>85+ clients</td>
+    </tr>
+    <tr>
+      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
+      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
+      <td>200+ clients</td>
+    </tr>
+    <tr>
+      <td>Prism</td>
+      <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
+      <td>2.5k+ Distributors Nationwide</td>
+    </tr>
+    <tr>
+      <td>Unilever MARS</td>
+      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
+      <td>20 million+ Consumer Data Managed Already</td>
+    </tr>
+    <tr>
+      <td>Microzen</td>
+      <td>Microcredit Automation System with AI based Decision Support System</td>
+      <td>15 million+ Consumer Financial Data Managed Already</td>
+    </tr>
+  </tbody>
+</table>
+
 
  
 
