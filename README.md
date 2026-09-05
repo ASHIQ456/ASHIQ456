@@ -25,19 +25,17 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 
 ---
 
-<h2>
-  <img src="https://api.iconify.design/lucide/link.svg?color=%233B82F6" width="24" align="absmiddle"/> FOLLOW ME ON SOCIALS
-</h2>
 
-<a href=""><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
-<a href=""><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<h2><img src="https://api.iconify.design/lucide/link.svg?color=%233B82F6" width="24" align="absmiddle"/> FOLLOW ME ON SOCIALS </h2>
 
-<a href=""><img src="https://www.svgrepo.com/show/475700/youtube-color.svg" width="50"/></a>
+  <a href="https://www.linkedin.com/in/mdashiq456"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.youtube.com/"><img src="https://www.svgrepo.com/show/475700/youtube-color.svg" width="50"/></a>
+  <a href="https://www.facebook.com/"><img src="https://www.svgrepo.com/show/452196/facebook-1.svg" width="50"/></a>
+  <a href="ashiqofficial456@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
-<a href=""><img src="https://www.svgrepo.com/show/452196/facebook-1.svg" width="50"/></a>
 
-<a href=""><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
 ---
 
@@ -78,17 +76,11 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
   </h2>
 
 <a href=""><img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-
 <a href=""><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
 <a href=""><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-
 <a href=""><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-
 <a href=""><img src="https://img.shields.io/badge/BeeCrowd-FF6F00?style=for-the-badge"/></a>
-
 <a href=""><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/></a>
-
 <a href=""><img src="https://img.shields.io/badge/VJudge-0A0A0A?style=for-the-badge"/></a>
 
 </div>
@@ -97,7 +89,7 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 
 ### 📊 GITHUB STATISTICS & ANALYSIS:
 
-<picture>
+<picture align='center'>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
