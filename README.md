@@ -1,5 +1,5 @@
 ## Hi, I'm ASHIQ 👋
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/bg.jpg?raw=true' alt='Ali Hossain'>](https://github.com/shovoalways/)
+[<img src='https://i.postimg.cc/Y9v0cDSP/Chat-GPT-Image-Sep-5-2026-09-29-29-PM.png'>](https://github.com/shovoalways/)
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
