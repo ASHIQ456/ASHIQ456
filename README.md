@@ -2,11 +2,9 @@
 
 <h1 align="center">Hi, I'm Md Ashiq</h1>
 
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hi there my gorgeous friend <img src="https://i.postimg.cc/jqm017s2/hello.gif" width="28px" alt="hi">
 
-I'm Sumit Saha (Dhaka, Bangladesh), a Bangladeshi <img src="assets/bangladesh.png" width="18"/> Software Engineer & Programming Educator. I am Full Stack Web Application Developer and Content Creator on [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or recording tutorials. Checkout [my personal Website](https://www.sumitsaha.me) to know more about me.
 
-:coffee: &emsp;Connect with me!
 
 
 <p align="center">
