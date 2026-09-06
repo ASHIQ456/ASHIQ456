@@ -1,9 +1,7 @@
 ![Full stock webdebloper ](https://i.postimg.cc/sXyYzZ8P/Chat-GPT-Image-Sep-5-2026-11-05-14-PM.png)
 
-<h1 align="center">Hi, I'm Md Ashiq</h1>
-
-## Hi there my gorgeous friend <img src="https://i.postimg.cc/jqm017s2/hello.gif" width="28px" alt="hi">
-
+<h1 align="center">Hi there my gorgeous friend <img src="https://i.postimg.cc/jqm017s2/hello.gif" width="28px" alt="hi">
+</h1>
 
 
 
